@@ -1,4 +1,4 @@
-<!-- Code by Brave Coder - https://youtube.com/BraveCoder -->
+<!-- Code by Ansh Pandey - https://mranshpandey.blogspot.com/ -->
 
 <?php
 
@@ -31,7 +31,7 @@ if (isset($_POST['submit'])) {
   <link rel="stylesheet" href="style.css">
   <!-- Google Recaptcha -->
   <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-  <title>Google Recaptcha v2 - Brave Coder</title>
+  <title>Google Recaptcha v2 - Ansh Pandey</title>
 </head>
 <body>
 
